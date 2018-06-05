@@ -1,0 +1,11 @@
+C:\Users\Trainee\Projects\coffeeDateAPI\bin\Debug\netcoreapp2.0\coffeeDateAPI.deps.json
+C:\Users\Trainee\Projects\coffeeDateAPI\bin\Debug\netcoreapp2.0\coffeeDateAPI.runtimeconfig.json
+C:\Users\Trainee\Projects\coffeeDateAPI\bin\Debug\netcoreapp2.0\coffeeDateAPI.runtimeconfig.dev.json
+C:\Users\Trainee\Projects\coffeeDateAPI\bin\Debug\netcoreapp2.0\coffeeDateAPI.dll
+C:\Users\Trainee\Projects\coffeeDateAPI\bin\Debug\netcoreapp2.0\coffeeDateAPI.pdb
+C:\Users\Trainee\Projects\coffeeDateAPI\obj\Debug\netcoreapp2.0\coffeeDateAPI.csprojAssemblyReference.cache
+C:\Users\Trainee\Projects\coffeeDateAPI\obj\Debug\netcoreapp2.0\coffeeDateAPI.csproj.CoreCompileInputs.cache
+C:\Users\Trainee\Projects\coffeeDateAPI\obj\Debug\netcoreapp2.0\coffeeDateAPI.AssemblyInfoInputs.cache
+C:\Users\Trainee\Projects\coffeeDateAPI\obj\Debug\netcoreapp2.0\coffeeDateAPI.AssemblyInfo.cs
+C:\Users\Trainee\Projects\coffeeDateAPI\obj\Debug\netcoreapp2.0\coffeeDateAPI.dll
+C:\Users\Trainee\Projects\coffeeDateAPI\obj\Debug\netcoreapp2.0\coffeeDateAPI.pdb
